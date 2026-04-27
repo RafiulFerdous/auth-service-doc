@@ -1,6 +1,6 @@
 # Authentication Service - Complete Technical Specification
  
-**Last Updated:** April 2026  
+
 **Service Type:** Core Security Microservice (IAM Layer)  
 **Domain:** Identity & Access Management  
 **Port:** 3001  
